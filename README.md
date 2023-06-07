@@ -19,5 +19,5 @@ This project is a Python-based simulation of the Lorenz Attractor, which is a cl
 3. Use the sliders to adjust the simulation parameters and observe the changes in real-time.
 4. Explore the dynamics of the Lorenz Attractor by interacting with the 3D plot.
 
-Acknowledgements
+# Acknowledgements
 The simulation implementation is inspired by the work of Edward Lorenz and various resources on computational physics and chaos theory.
